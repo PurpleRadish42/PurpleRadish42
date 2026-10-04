@@ -7,7 +7,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PurpleRadish42/terraform-stuff">terraform-stuff</a>
-  &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/r-abhijit-srivathsan-33b8b42b8">LinkedIn</a>
 </p>
